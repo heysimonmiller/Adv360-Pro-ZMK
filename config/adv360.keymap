@@ -80,7 +80,7 @@
 &ht GRAVE TILDE  &ht PLUS EXCL  &ht LBKT AT  &ht LBRC HASH  &ht LPAR DLLR  &ht AMPS PRCNT     &tog 1                                                                    &mo 3         &ht KP_EQUAL CARET  &ht RPAR AMPS  &ht RBRC STAR  &ht RBKT KP_SLASH  &kp STAR   &kp MINUS
 AS(TAB)          AS(Q)          AS(W)        AS(E)          AS(R)          AS(T)              &cpy                                                                      &cpy          AS(Y)               AS(U)          AS(I)          AS(O)              AS(P)      AS(BSLH)
 &kp ESC          AS(A)          AS(S)        AS(D)          AS(F)          AS(G)              &none    &kp LCTRL  &kp LALT                         &kp RALT  &kp RCTRL  &none         AS(H)               AS(J)          AS(K)          AS(L)              AS(SEMI)   AS(SQT)
-&kp LSHFT        AS(Z)          AS(X)        AS(C)          AS(V)          AS(B)              &none    &none      &kp LGUI       &none  &none      &kp RGUI  &none      &none         AS(N)               AS(M)          AS(COMMA)      AS(DOT)            AS(FSLH)   kp RSHFT
+&kp LSHFT        AS(Z)          AS(X)        AS(C)          AS(V)          AS(B)              &none    &none      &kp LGUI       &none  &none      &kp RGUI  &none      &none         AS(N)               AS(M)          AS(COMMA)      AS(DOT)            AS(FSLH)   &kp RSHFT
 &mo 2            &kp GRAVE      &caps_word   &kp LEFT       &kp RIGHT                         &kp DEL  &kp BSPC   &td0                             &td0      &kp SPACE  &kp ENTER                         &kp DOWN       &kp UP         &none              &none      &mo 2
             >;
         };
