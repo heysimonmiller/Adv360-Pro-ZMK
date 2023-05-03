@@ -55,11 +55,11 @@
 
         default_layer {
             bindings = <
-&ht TILDE GRAVE  &ht EXCL PLUS  &ht AT LBKT  &ht HASH LBRC  &ht DLLR LPAR  &ht PRCNT AMPS     &tog 1                                                                     &mo 3         &ht CARET KP_EQUAL  &ht AMPS RPAR  &ht STAR RBRC  &ht KP_SLASH RBKT  &kp STAR   &kp MINUS
-&kp TAB          &kp Q          &kp W        &kp E          &kp R          &kp T              &cpy                                                                       &cpy          &kp Y               &kp U          &kp I          &kp O              &kp P      &kp BSLH
-&kp ESC          &kp A          &kp S        &kp D          &kp F          &kp G              &none     &kp LCTRL  &kp LALT                         &kp RALT  &kp RCTRL  &none         &kp H               &kp J          &kp K          &kp L              &kp SEMI   &kp SQT
-&kp LSHFT        &kp Z          &kp X        &kp C          &kp V          &kp B              &none     &none      &kp LGUI       &none  &none      &kp RGUI  &none      &none         &kp N               &kp M          &kp COMMA      &kp DOT            &kp FSLH   &kp RSHFT
-&mo 2            &kp GRAVE      &caps_word   &kp LEFT       &kp RIGHT                         &kp BSPC  &mo 1      &kp DEL                          &td0      &kp SPACE  &kp ENTER                         &kp DOWN       &kp UP         &none              &none      &mo 2
+&ht TILDE GRAVE  &ht EXCL PLUS  &ht AT LBKT  &ht HASH LBRC  &ht DLLR LPAR  &ht PRCNT AMPS     &tog 1                                                                      &mo 3         &ht CARET KP_EQUAL  &ht AMPS RPAR  &ht STAR RBRC  &ht KP_SLASH RBKT  &kp STAR   &kp MINUS
+&kp TAB          &kp Q          &kp W        &kp E          &kp R          &kp T              &cpy                                                                        &cpy          &kp Y               &kp U          &kp I          &kp O              &kp P      &kp BSLH
+&kp ESC          &kp A          &kp S        &kp D          &kp F          &kp G              &none     &kp LCTRL   &kp LALT                         &kp RALT  &kp RCTRL  &none         &kp H               &kp J          &kp K          &kp L              &kp SEMI   &kp SQT
+&kp LSHFT        &kp Z          &kp X        &kp C          &kp V          &kp B              &none     &none       &kp LGUI       &none  &none      &kp RGUI  &none      &none         &kp N               &kp M          &kp COMMA      &kp DOT            &kp FSLH   &kp RSHFT
+&mo 2            &kp GRAVE      &caps_word   &kp LEFT       &kp RIGHT                         &kp BSPC  &kp ENTER   &kp DEL                          &td0      &mo 1      &kp SPACE                         &kp DOWN       &kp UP         &none              &none      &mo 2
             >;
         };
 
